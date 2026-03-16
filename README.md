@@ -173,7 +173,7 @@ Todo o código foi revisado, compreendido e validado manualmente antes da submis
 
 # Autor
 
-Aluno: **João Victor**  
+Aluno: **João Victor Melo**  
 Disciplina: **Processamento de Linguagem Natural**
 
 
