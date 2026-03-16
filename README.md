@@ -173,7 +173,7 @@ Todo o código foi revisado, compreendido e validado manualmente antes da submis
 
 # Autor
 
-Aluno: **[SEU NOME]**  
+Aluno: **João Victor**  
 Disciplina: **Processamento de Linguagem Natural**
 
 
